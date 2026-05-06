@@ -2,7 +2,7 @@
 
 Free single-file Windows utility for wiping disks before you recycle, sell, or hand them off. I built it because I didn't want to pay for a bloated commercial wiper to do something Windows can already do, just with a worse UI.
 
-<img width="921" height="631" alt="ez-eraser-main" src="https://github.com/user-attachments/assets/877e9ce7-6515-4529-950c-040a8689d6c0" />
+<img width="924" height="630" alt="ez-eraser-main" src="https://github.com/user-attachments/assets/3d12e70f-0e24-42d7-8bef-4f44d0103e6a" />
 
 ## Features
 
