@@ -41,7 +41,7 @@ To run it anyway:
 Verify with PowerShell:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\DiskWipper.exe
+Get-FileHash -Algorithm SHA256 .\EzEraser.exe
 ```
 
 The output should match the hash above. If it doesn't, the file is corrupted or has been tampered with. Re-download.
